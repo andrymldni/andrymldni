@@ -1,10 +1,8 @@
-# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+# Hi, I'm Andry <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
-Perkenalkan nama saya **Andry Syva Maldini**.\
-Saya seorang **Mahasiswa** dari program studi *Sains Data* di [UPN Veteran Jatim](https://www.upnjatim.ac.id/).\
-Mari terhubung di Linkedinku untuk berbagi wawasan dan peluang hebat [Linkedin](https://www.linkedin.com/in/andrymldni/)
+Data Science Student at UPN Veteran Jatim University
 
-<img align="left" src="https://i.redd.it/455rxmjk9emb1.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.redd.it/455rxmjk9emb1.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="300" /> 
 
 ```csharp
 andrymldni@github
@@ -15,7 +13,7 @@ Location: Surabaya, Indonesia
 Frameworks: Bootstrap
 Languages: Python, R,
            HTML, CSS
-Learning: MySQL, Data visualization
+Learning: MySQL, Data visualization, Hadoop
 Hobbies: Gaming, Reading Book
 Discord: andrymldni#8485
 ```
@@ -23,8 +21,8 @@ Discord: andrymldni#8485
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="#0a0e11" src="https://fakeimg.pl/600x400/252b2d/000000?text=+" width="30" height="30" /><img alt="#686763" src="https://fakeimg.pl/600x400/696765/000000?text=+" width="30" height="30" /><img alt="#aaa6a5" src="https://fakeimg.pl/600x400/e3e2de/000000?text=+" width="30" height="30" /><img alt="#e4ceb6" src="https://fakeimg.pl/600x400/edd2ba/000000?text=+" width="30" height="30" /><img alt="#be7569" src="https://fakeimg.pl/600x400/ba575a/000000?text=+" width="30" height="30" />
 </p>
-
 <br>
+<center>STATISTIC</center>
 
 <p align="left">
 <a href="https://github.com/andrymldni">
