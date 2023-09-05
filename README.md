@@ -1,6 +1,6 @@
 # Halo Semua!
 
-<img align="left" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F455rxmjk9emb1.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.redd.it/455rxmjk9emb1.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
 anordinaryusername@github
