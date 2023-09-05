@@ -42,12 +42,7 @@ Discord: andrymldni#8485
 
  <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="andrymldni's streak" src="https://streak-stats.demolab.com/?user=andrymldni&theme=default&hide_border=true"/>
-    </a>
-  </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=andrymldni)](https://git.io/streak-stats)
 
  <h3>💻 GitHub Profile Stats</h3>
            
