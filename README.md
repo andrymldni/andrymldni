@@ -1,4 +1,4 @@
-# Halo Semua!
+# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
 <img align="left" src="https://i.redd.it/455rxmjk9emb1.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
