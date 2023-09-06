@@ -22,7 +22,12 @@
 
 <h2>👨 About Me</h2>
  <p align="left">
-  Saya adalah seorang mahasiswa yang sedang mengambil program studi Sains Data, dengan keahlian dan pengetahuan dalam bahasa pemrograman Python dan MySQL. Selain fokus pada pendidikan, saya juga sangat aktif dalam berbagai kegiatan di luar kurikulum yang berperan dalam meningkatkan kemampuan kepemimpinan dan organisasi saya. Saya memiliki antusiasme yang tinggi dalam mengikuti perkembangan terbaru di bidang teknologi.
+  <ul>
+   <li>I'm an enthusiastic Data Science student, embarking on a journey to unlock the secrets of data.</li>
+   <li>My toolbox includes the mastery of programming languages like Python and MySQL, allowing me to decipher the language of data effortlessly.</li>
+   <li>Beyond the classroom, I thrive in extracurricular activities that shape me into a skilled leader and an adept organizer.</li>
+   <li> With an insatiable thirst for knowledge, I eagerly track the ever-evolving landscape of technology, staying ahead of the curve.</li>
+  </ul>
  </p>
 
 <details> 
