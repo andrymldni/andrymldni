@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&weight=400&size=27&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github" alt="Typing SVG" /></a>
 </p>
 
 <!-- Background -->
@@ -25,7 +25,7 @@
   Saya adalah seorang mahasiswa yang sedang mengambil program studi Sains Data, dengan keahlian dan pengetahuan dalam bahasa pemrograman Python dan MySQL. Selain fokus pada pendidikan, saya juga sangat aktif dalam berbagai kegiatan di luar kurikulum yang berperan dalam meningkatkan kemampuan kepemimpinan dan organisasi saya. Saya memiliki antusiasme yang tinggi dalam mengikuti perkembangan terbaru di bidang teknologi.
  </p>
 
-<details> 
+<details open> 
 <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
 <!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
