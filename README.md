@@ -20,38 +20,37 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-### 👨 About Me
+<h2>👨 About Me</h2>
  <p align="left">
   Saya adalah seorang mahasiswa yang sedang mengambil program studi Sains Data, dengan keahlian dan pengetahuan dalam bahasa pemrograman Python dan MySQL. Selain fokus pada pendidikan, saya juga sangat aktif dalam berbagai kegiatan di luar kurikulum yang berperan dalam meningkatkan kemampuan kepemimpinan dan organisasi saya. Saya memiliki antusiasme yang tinggi dalam mengikuti perkembangan terbaru di bidang teknologi.
  </p>
 
-<details open> 
-<summary><h2>🛠️ My Favorite Tools</h2></summary>
+<details> 
+ <summary><h2>🛠️ My Favorite Tools</h2></summary>
+ <!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
+ <h3>👨‍💻 Programming and Markup Languages</h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,bash,php,python,r,haskell,scala" /></a>
+  </p>
 
-<!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
-<h3>👨‍💻 Programming and Markup Languages</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bash,php,python,r,haskell,scala" /></a>
-</p>
-
-<h3>🧰 Frameworks and Libraries</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,flask,figma,bootstrap,wordpress" /></a>
-</p>
+ <h3>🧰 Frameworks and Libraries</h3>
+  <p align="left">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=tensorflow,flask,figma,bootstrap,wordpress" /></a>
+  </p>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,sqlite,replit,aws" /></a>
-</p>
+  <p align="left">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,sqlite,replit,aws" /></a>
+  </p>
 
 <h3>💻 Software and Tools</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,discord,stackoverflow" /></a>
-</p>
+  <p align="left">
+   <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=vscode,discord,stackoverflow" /></a>
+  </p>
 </details>
  
 <details> 
