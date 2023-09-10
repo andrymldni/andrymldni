@@ -4,6 +4,8 @@
    <img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&weight=400&size=27&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github" alt="Typing SVG" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=andrymldni&style=flat)
+
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
@@ -22,14 +24,9 @@
 
 <h2>👨 About Me</h2>
  <p align="left">
-  <ul>
-   <li>I'm an enthusiastic Data Science student, embarking on a journey to unlock the secrets of data.</li>
-   <li>My toolbox includes the mastery of programming languages like Python and MySQL, allowing me to decipher the language of data effortlessly.</li>
-   <li>Beyond the classroom, I thrive in extracurricular activities that shape me into a skilled leader and an adept organizer.</li>
-   <li> With an insatiable thirst for knowledge, I eagerly track the ever-evolving landscape of technology, staying ahead of the curve.</li>
-  </ul>
+ I am a student pursuing a Data Science program, with expertise and knowledge in programming languages such as Python and MySQL. In addition to my academic focus, I am also highly active in various extracurricular activities that play a role in enhancing my leadership and organizational skills. I have a strong enthusiasm for keeping up with the latest developments in the field of technology.
  </p>
-
+ 
 <details> 
  <summary><h2>🛠️ My Favorite Tools</h2></summary>
  <!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
@@ -60,7 +57,7 @@
  
 <details> 
 <summary><h2>📊 Github Stats and Activity</h2></summary>
-
+ 
 <h3>🔥 Streak Stats</h3>
 
 ![andrymldni's Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrymldni&theme=default&hide_border=false)
