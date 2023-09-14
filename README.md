@@ -9,7 +9,7 @@
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img src="https://media.licdn.com/dms/image/D5616AQECle_ksDlpMg/profile-displaybackgroundimage-shrink_350_1400/0/1693974965940?e=1699488000&v=beta&t=3oX1Ikkz4WH8zeuBb7qDMUcznz3bjJbf-LyAKbr0_8c"></a>
+  <img src="https://media.licdn.com/dms/image/D5616AQFRbwxhRSvjPA/profile-displaybackgroundimage-shrink_350_1400/0/1694653579087?e=1700092800&v=beta&t=iSuVzQ02A48xRDbAEt3aXH0qoNk6xv6U6cLJKV8DEZA"></a>
 </p>
 
 <!-- Social icons section -->
