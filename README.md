@@ -9,7 +9,7 @@
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img src="https://media.licdn.com/dms/image/D5616AQFRbwxhRSvjPA/profile-displaybackgroundimage-shrink_350_1400/0/1694653579087?e=1700092800&v=beta&t=iSuVzQ02A48xRDbAEt3aXH0qoNk6xv6U6cLJKV8DEZA"></a>
+  <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
 </p>
 
 <!-- Social icons section -->
