@@ -12,6 +12,8 @@
   <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
 </p>
 
+<p align="center">Les't Connet With Me</p>
+
 <!-- Social icons section -->
 <p align="center">
  <a href="https://www.linkedin.com/in/andrysyvamldni/">
