@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
 </p>
 
-<p align="center">Les't Connet With Me</p>
+<p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -24,13 +24,13 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<h2>About Me</h2>
- <p align="left">
- I am a student pursuing a Data Science program, with expertise and knowledge in programming languages such as Python and MySQL. In addition to my academic focus, I am also highly active in various extracurricular activities that play a role in enhancing my leadership and organizational skills. I have a strong enthusiasm for keeping up with the latest developments in the field of technology.
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png" alt="Boy" width="25" height="25" /> About Me</h2>
+ <p>
+  Hi there! I'm a sixth-semester student majoring in data science at the Universitas Pembangunan Nasional Veteran East Java. I absolutely love exploring new things, especially those related to the world of data and technology. Despite frequently facing tight deadlines, I've mastered the art of time management. I always strive hard to achieve my academic goals.
  </p>
  
 <details open> 
- <summary><h2>My Favorite Tools</h2></summary>
+ <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> My Favorite Tools</h2></summary>
  <!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
  <h3>Programming and Markup Languages</h3>
   <p align="left">
@@ -59,9 +59,9 @@
  
 
 ---
-### Now Playing 🎧
+### Now Playing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="25" height="25" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jfw9a8ksreub56ob7avj4xlrv&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jfw9a8ksreub56ob7avj4xlrv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 
 ---
