@@ -59,8 +59,9 @@
  
 
 ---
+### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/jfw9a8ksreub56ob7avj4xlrv)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jfw9a8ksreub56ob7avj4xlrv&cover_image=false&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 
 ---
