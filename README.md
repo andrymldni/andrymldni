@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
 </p>
 
-<p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
+<p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="35" height="35" /></p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -30,24 +30,24 @@
  </p>
  
 <details open> 
- <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> My Favorite Tools</h2></summary>
+ <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My Favorite Tools</h2>
  <!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
  <h3>Programming and Markup Languages</h3>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bash,php,python,r,haskell,scala" /></a>
+      <img src="https://skillicons.dev/icons?i=html,css,bash,php,python,r,haskell,scala&perline=4" /></a>
   </p>
 
  <h3>Frameworks and Libraries</h3>
   <p align="left">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=tensorflow,flask,figma,bootstrap,wordpress" /></a>
+     <img src="https://skillicons.dev/icons?i=tensorflow,flask,figma,bootstrap,wordpress&perline=3" /></a>
   </p>
 
 <h3>Databases and Cloud Hosting</h3>
   <p align="left">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,sqlite,replit,aws" /></a>
+     <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,sqlite,replit,aws&perline=3" /></a>
   </p>
 
 <h3>Software and Tools</h3>
@@ -59,7 +59,8 @@
  
 
 ---
-### Now Playing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="25" height="25" />
+
+### Now Playing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="30" height="30" />
 
 [![spotify-github-andrymldni](https://spotify-github-profile.vercel.app/api/view?uid=jfw9a8ksreub56ob7avj4xlrv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <br/>
