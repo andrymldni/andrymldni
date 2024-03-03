@@ -72,4 +72,5 @@ I'm thrilled to witness the ongoing development of technology and its impact on 
 <br/>
 
 ---
-[![andrymldni's Stats](https://github-readme-stats.vercel.app/api?username=andrymldni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+![andrymldni's Stats](https://github-readme-stats.vercel.app/api?username=andrymldni&theme=default&show_icons=true&hide_border=false&count_private=true)
