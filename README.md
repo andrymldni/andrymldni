@@ -74,3 +74,4 @@ I'm thrilled to witness the ongoing development of technology and its impact on 
 ---
 
 ![andrymldni's Stats](https://github-readme-stats.vercel.app/api?username=andrymldni&theme=default&show_icons=true&hide_border=false&count_private=true)
+![andrymldni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrymldni&theme=default&show_icons=true&hide_border=false&layout=compact)
