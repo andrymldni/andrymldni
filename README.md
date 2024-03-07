@@ -26,13 +26,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png" alt="Boy" width="25" height="25" /> About Me</h2>
  <div align="justify"><p>
-  Hi there! I'm a sixth-semester student majoring in data science at the Universitas Pembangunan Nasional Veteran East Java. I absolutely love exploring new things, especially those related to the world of data and technology. Despite frequently facing tight deadlines, I've mastered the art of time management. I always strive hard to achieve my academic goals.
-
-I'm the kind of person who feels genuinely happy when contributing ideas or assistance to group projects. I enjoy collaborating with teammates and supporting each other. Even though this major is quite serious, I believe we can make the learning environment more exciting and enjoyable.
-
-That's why I don't just enjoy tackling academic tasks but also experimenting with Machine Learning. I've got a good command of various programming languages like Python, SQL, and Tensorflow.
-
-I'm thrilled to witness the ongoing development of technology and its impact on everyday life. Hopefully, the knowledge I gain will be beneficial to many people in the future. Let's learn and grow together! 😊
+  I am a sixth-semester student majoring in data science at Universitas Pembangunan Nasional Veteran East Java. I enjoy exploring the world of data and technology, managing my time effectively, and collaborating on group projects. In addition to academic tasks, I have a keen interest in experimenting with Machine Learning and have proficiency in programming languages such as Python, SQL, and PHP. I am enthusiastic about witnessing the ongoing technological developments and hope that my knowledge will be beneficial in the future. Let's learn and grow together! 😊
  </p></div>
  
 <details> 
