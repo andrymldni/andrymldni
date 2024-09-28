@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
  <a>
-   <img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&weight=400&size=27&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&weight=400&size=27&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github+👋" alt="Typing SVG" /></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=andrymldni&style=flat)
@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
 </p>
 
-<p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="35" height="35" /></p>
+<p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-## About Me
+### About Me
  <div align="justify"><p>
-  I am a sixth-semester student majoring in data science at Universitas Pembangunan Nasional Veteran East Java. I enjoy exploring the world of data and technology, managing my time effectively, and collaborating on group projects. In addition to academic tasks, I have a keen interest in experimenting with Machine Learning and have proficiency in programming languages such as Python, SQL, and PHP. I am enthusiastic about witnessing the ongoing technological developments and hope that my knowledge will be beneficial in the future. Let's learn and grow together! 😊
+  I am a seventh-semester student majoring in data science at Universitas Pembangunan Nasional Veteran East Java. I enjoy exploring the world of data and technology, managing my time effectively, and collaborating on group projects. In addition to academic tasks, I have a keen interest in experimenting with Machine Learning and have proficiency in programming languages such as Python, SQL, and PHP. I am enthusiastic about witnessing the ongoing technological developments and hope that my knowledge will be beneficial in the future. Let's learn and grow together! 😊
  </p></div>
  
 <details> 
