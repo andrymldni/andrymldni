@@ -68,5 +68,6 @@ ___
 ___
 
 
-
-
+<div align="center">
+  <img src="https://github.com/andrymldni/andrymldni/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</div>
