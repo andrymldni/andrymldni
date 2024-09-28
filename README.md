@@ -4,12 +4,10 @@
    <img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&weight=400&size=27&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github+👋" alt="Typing SVG" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=andrymldni&style=flat)
-
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
+  <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif" width="700" height="350"></a>
 </p>
 
 <p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
