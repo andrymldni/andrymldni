@@ -24,13 +24,13 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png" alt="Boy" width="25" height="25" /> About Me</h2>
+## About Me
  <div align="justify"><p>
   I am a sixth-semester student majoring in data science at Universitas Pembangunan Nasional Veteran East Java. I enjoy exploring the world of data and technology, managing my time effectively, and collaborating on group projects. In addition to academic tasks, I have a keen interest in experimenting with Machine Learning and have proficiency in programming languages such as Python, SQL, and PHP. I am enthusiastic about witnessing the ongoing technological developments and hope that my knowledge will be beneficial in the future. Let's learn and grow together! 😊
  </p></div>
  
 <details> 
- <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My Favorite Tools</h2></summary>
+ <summary><h2>My Favorite Tools</h2></summary>
  <!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
  <h3>Programming and Markup Languages</h3>
   <p align="left">
@@ -58,14 +58,13 @@
 </details>
  
 
----
-
-### Now Playing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="30" height="30" />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jfw9a8ksreub56ob7avj4xlrv&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=jfw9a8ksreub56ob7avj4xlrv&redirect=true)
-<br/>
-
----
+___
 
 ![andrymldni's Stats](https://github-readme-stats.vercel.app/api?username=andrymldni&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![andrymldni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrymldni&theme=default&show_icons=true&hide_border=false&layout=compact)
+
+___
+
+
+
+
