@@ -24,18 +24,18 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-### About Me
+<h3> About Me</h3>
  <div align="justify"><p>
   I am a seventh-semester student majoring in data science at Universitas Pembangunan Nasional Veteran East Java. I enjoy exploring the world of data and technology, managing my time effectively, and collaborating on group projects. In addition to academic tasks, I have a keen interest in experimenting with Machine Learning and have proficiency in programming languages such as Python, SQL, and PHP. I am enthusiastic about witnessing the ongoing technological developments and hope that my knowledge will be beneficial in the future. Let's learn and grow together! 😊
  </p></div>
  
 <details> 
- <summary><h2>My Favorite Tools</h2></summary>
+ <summary><h3>My Favorite Tools</h3></summary>
  <!-- Some badges are from https://github.com/tandpfun/skill-icons#icons-list -->
  <h3>Programming and Markup Languages</h3>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bash,php,python,r,haskell,scala&perline=4" /></a>
+      <img src="https://skillicons.dev/icons?i=html,css,bash,php,python,r,haskell,scala&perline=4"/></a>
   </p>
 
  <h3>Frameworks and Libraries</h3>
@@ -47,7 +47,7 @@
 <h3>Databases and Cloud Hosting</h3>
   <p align="left">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,sqlite,replit,aws&perline=3" /></a>
+     <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,sqlite,replit,aws&perline=3"/></a>
   </p>
 
 <h3>Software and Tools</h3>
