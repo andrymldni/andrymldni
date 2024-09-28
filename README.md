@@ -60,8 +60,10 @@
 
 ___
 
-![andrymldni's Stats](https://github-readme-stats.vercel.app/api?username=andrymldni&theme=default&show_icons=true&hide_border=false&count_private=true)
-![andrymldni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrymldni&theme=default&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrymldni&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrymldni&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ___
 
