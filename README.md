@@ -7,7 +7,7 @@
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif" width="700" height="350"></a>
+  <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
 </p>
 
 <p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
