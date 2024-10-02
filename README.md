@@ -1,13 +1,13 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
  <a>
-   <img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&weight=400&size=29&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github+👋" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Bree+Serif&weight=400&size=30&pause=1000&color=0096FF&center=true&width=525&height=40&lines=Hi+There!%2C+Welcome+to+My+Github+👋" alt="Typing SVG" /></a>
 </p>
 
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img src="https://media.giphy.com/media/RNQ0qRIwGek48/giphy.gif"></a>
+  <img src="https://github.com/user-attachments/assets/46e3590c-dc6b-4207-8be6-262c58744dcb"  width="500" height="300"></a>
 </p>
 
 <p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
