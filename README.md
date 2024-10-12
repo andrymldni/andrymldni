@@ -25,7 +25,7 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=stackoverflow,bootstrap,flask,html,css,vscode,github,figma,tensorflow,git,r" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow,bootstrap,gcp,html,css,vscode,github,figma,tensorflow,git,r" />
     <img src="https://skillicons.dev/icons?i=wordpress,python,javascript,discord,firebase,mongodb,aws,java,php,mysql,flask" /><br>
 </div>
 
