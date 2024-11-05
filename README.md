@@ -17,6 +17,9 @@
  <a href="https://www.linkedin.com/in/andrymldni/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+ <a href="https://www.instagram.com/andrymldni/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
 <h2> About Me</h2>
  <div align="justify"><p>
   I am a seventh-semester student majoring in data science at Universitas Pembangunan Nasional Veteran East Java. I enjoy exploring the world of data and technology, managing my time effectively, and collaborating on group projects. In addition to academic tasks, I have a keen interest in experimenting with Machine Learning and have proficiency in programming languages such as Python, SQL, and PHP. I am enthusiastic about witnessing the ongoing technological developments and hope that my knowledge will be beneficial in the future. Let's learn and grow together! 😊
