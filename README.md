@@ -7,7 +7,7 @@
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img src="https://github.com/user-attachments/assets/46e3590c-dc6b-4207-8be6-262c58744dcb"></a>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGxZgVUHNJVUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731478497903?e=1736985600&v=beta&t=YhqFsdXfnsmDDywMXPaLC_W58zeF5qqShhRaRNa-Ujk"></a>
 </p>
 
 <p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
