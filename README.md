@@ -21,7 +21,9 @@
 
 <h2> About Me</h2>
  <div align="justify"><p>
-  I am a seventh-semester student majoring in data science at Universitas Pembangunan Nasional Veteran East Java. I enjoy exploring the world of data and technology, managing my time effectively, and collaborating on group projects. In addition to academic tasks, I have a keen interest in experimenting with Machine Learning and have proficiency in programming languages such as Python, SQL, and PHP. I am enthusiastic about witnessing the ongoing technological developments and hope that my knowledge will be beneficial in the future. Let's learn and grow together! 😊
+  <em>
+I am a Data Science graduate from Universitas Pembangunan Nasional "Veteran" Jawa Timur with a strong passion for leveraging Machine Learning, Deep Learning, and Computer Vision to create impactful solutions. For my thesis, I developed an AI-based system for detecting online gambling advertisements, integrated into a web application to support end-to-end content moderation for images and text. Proficient in Python, SQL, and data visualization, I also bring strong communication, problem-solving, and team collaboration skills. I am committed to continuous learning and contributing to innovations that deliver real value to businesses and society.
+  </em>
  </p></div>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
