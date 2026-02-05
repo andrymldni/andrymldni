@@ -3,12 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=2C7FF7&width=435&lines=Hello+there!%2C+Welcome+to+My+Github+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 
-
-
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img src="https://github.com/user-attachments/assets/39e9e00a-ee75-4290-ac79-bd8685d5f838"></a>
+  <img src="https://github.com/user-attachments/assets/df5121fb-9722-4885-adb1-22bd7e76f88c"></a>
 </p>
 
 <p align="center">Les't Connet With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
