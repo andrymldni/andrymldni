@@ -89,7 +89,7 @@ ___
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrymldni&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrymldni&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+  <img height="150em" src="https://streak-stats.demolab.com/?user=andrymldni&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ___
